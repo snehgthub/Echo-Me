@@ -64,5 +64,5 @@ app.post('/update-profile', async function (req, res) {
 })
 
 app.listen(port, function () {
-    console.log('App listening on port ' + port)
+    console.log('App is listening on port ' + port)
 })

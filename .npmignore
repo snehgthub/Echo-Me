@@ -1,6 +1,5 @@
 public
-package-lock.json
-.env
+.env*
 src
 README.md
 echo-me-1.0.0.tgz
